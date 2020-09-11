@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/altstory/go-log v1.0.5
-	github.com/altstory/go-metrics v1.0.5
+	github.com/altstory/go-metrics v1.0.7
 	github.com/altstory/go-runner v1.1.8
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/huandu/go-assert v1.1.5
